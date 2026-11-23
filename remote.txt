@@ -1,2 +1,2 @@
 This is my remote change.
-New line added.
+New line added
